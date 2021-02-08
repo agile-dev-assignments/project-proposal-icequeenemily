@@ -1,5 +1,5 @@
 ## Recipe Central
-
+- Emily Nesson
 ## What and Why?
 I would like to build a software system that allows for people to write and share recipes. Users would be able to create posts with recipes, react to others, make comments, and possibly more. The software would group recipes based on key words/ titles- for example, if the recipe is vegan, there will be a subsection of recipes organized into a "Vegan" section, and the software will put other recipes of the same category into that section. If the recipe does not belong to a previously created section, the software will create a new section for the recipe. The recipes can also be tagged as easy, medium, or difficult on a level of how complicated it is to make the recipe. This can solve a problem of having trouble of finding an interactive recipe sharing platform, and is important in that recipes will be conveniently grouped and so easily findable and sharable for users.
 
@@ -15,6 +15,5 @@ I believe that this proposal is not too easy or too ambitious as a project as pe
 ## Collaboration
 None
 
-- Emily Nesson
 
 
